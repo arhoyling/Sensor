@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Healint</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="place_holder">...</string>
+    <string name="action_start_logging">Log...</string>
+    <string name="action_stop_logging">Stop logging</string>
+</resources>
